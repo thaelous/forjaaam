@@ -1,0 +1,6 @@
+{
+  "name": "AAM Forge Plant - Prensa Mecánica de Forja 4000T",
+  "description": "Gemelo digital y simulador 3D interactivo de la prensa mecánica de forja en caliente de 4000T para AAM Guanajuato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
